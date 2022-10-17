@@ -1,0 +1,426 @@
+code,name,name_eng
+"1125074",길동,Gil-dong
+"1125073",천호2동,Cheonho 2-dong
+"1125072",암사1동,Amsa 1-dong
+"1125071",둔촌2동,Dunchon 2-dong
+"1125070",둔촌1동,Dunchon 1-dong
+"1125067",성내3동,Seongnae 3-dong
+"1125066",성내2동,Seongnae 2-dong
+"1125065",성내1동,Seongnae 1-dong
+"1125063",천호3동,Cheonho 3-dong
+"1125061",천호1동,Cheonho 1-dong
+"1125059",암사3동,Amsa 3-dong
+"1125058",암사2동,Amsa 2-dong
+"1125056",고덕2동,Godeok 2-dong
+"1125055",고덕1동,Godeok 1-dong
+"1125054",명일2동,Myeongil 2-dong
+"1125053",명일1동,Myeongil 1-dong
+"1125052",상일동,Sangil-dong
+"1125051",강일동,Gangil-dong
+"1124080",잠실3동,Jamsil 3-dong
+"1124079",잠실2동,Jamsil 2-dong
+"1124078",잠실7동,Jamsil 7-dong
+"1124077",잠실6동,Jamsil 6-dong
+"1124075",잠실4동,Jamsil 4-dong
+"1124071",잠실본동,Jamsilbon-dong
+"1124069",문정2동,Munjeong 2-dong
+"1124068",문정1동,Munjeong 1-dong
+"1124067",가락2동,Garak 2-dong
+"1124066",가락1동,Garak 1-dong
+"1124065",가락본동,Garakbon-dong
+"1124064",삼전동,Samjeon-dong
+"1124063",석촌동,Seokchon-dong
+"1124062",송파2동,Songpa 2-dong
+"1124061",송파1동,Songpa 1-dong
+"1124060",오금동,Ogeum-dong
+"1124059",오륜동,Oryun-dong
+"1124058",방이2동,Bangi 2-dong
+"1124057",방이1동,Bangi 1-dong
+"1124056",마천2동,Macheon 2-dong
+"1124082",위례동,Geoyeo 2-dong
+"1124053",거여1동,Geoyeo 1-dong
+"1124052",풍납2동,Pungnap 2-dong
+"1124051",풍납1동,Pungnap 1-dong
+"1123080",개포2동,Gaepo 2-dong
+"1123079",대치2동,Daechi 2-dong
+"1123078",청담동,Cheongdam-dong
+"1123077",압구정동,Apgujeong-dong
+"1123076",세곡동,Segok-dong
+"1123075",수서동,Suseo-dong
+"1123074",일원2동,Irwon 2-dong
+"1123073",일원1동,Irwon 1-dong
+"1123072",일원본동,Irwonbon-dong
+"1123071",개포4동,Gaepo 4-dong
+"1123068",개포1동,Gaepo 1-dong
+"1123067",도곡2동,Dogok 2-dong
+"1123066",도곡1동,Dogok 1-dong
+"1123065",역삼2동,Yeoksam 2-dong
+"1123064",역삼1동,Yeoksam 1-dong
+"1123063",대치4동,Daechi 4-dong
+"1123060",대치1동,Daechi 1-dong
+"1123059",삼성2동,Samseong 2-dong
+"1123058",삼성1동,Samseong 1-dong
+"1123053",논현2동,Nonhyeon 2-dong
+"1123052",논현1동,Nonhyeon 1-dong
+"1123051",신사동,Sinsa-dong
+"1122068",내곡동,Naegok-dong
+"1122067",양재2동,Yangjae 2-dong
+"1122066",양재1동,Yangjae 1-dong
+"1122065",방배4동,Bangbae 4-dong
+"1122064",방배3동,Bangbae 3-dong
+"1122063",방배2동,Bangbae 2-dong
+"1122062",방배1동,Bangbae 1-dong
+"1122061",방배본동,Bangbaebon-dong
+"1122060",반포4동,Banpo 4-dong
+"1122059",반포3동,Banpo 3-dong
+"1122058",반포2동,Banpo 2-dong
+"1122057",반포1동,Banpo 1-dong
+"1122056",반포본동,Banpobon-dong
+"1122055",잠원동,Jamwon-dong
+"1122054",서초4동,Seocho 4-dong
+"1122053",서초3동,Seocho 3-dong
+"1122052",서초2동,Seocho 2-dong
+"1122051",서초1동,Seocho 1-dong
+"1121083",미성동,Miseong-dong
+"1121082",삼성동,Samseong-dong
+"1121081",난곡동,Nangok-dong
+"1121080",청룡동,Chengnyong-dong
+"1121079",성현동,Seonghyeon-dong
+"1121078",은천동,Euncheon-dong
+"1121073",대학동,Daehak-dong
+"1121072",조원동,Jowon-dong
+"1121071",난향동,Nanhyang-dong
+"1121069",신림동,Sillim-dong
+"1121068",신사동,Sinsa-dong
+"1121066",서림동,Serim-dong
+"1121065",신원동,Sinwon-dong
+"1121064",서원동,Sewon-dong
+"1121063",남현동,Namhyeon-dong
+"1121062",인헌동,Inheon-dong
+"1121061",중앙동,Jungang-dong
+"1121058",낙성대동,Nagseongdae-dong
+"1121057",행운동,Haengun-dong
+"1121054",청림동,Cheongnim-dong
+"1121052",보라매동,Boramae-dong
+"1120073",사당2동,Sadang-dong
+"1120072",노량진1동,Noryangjin 1-dong
+"1120071",흑석동,Heukseok-dong
+"1120070",신대방2동,Sindaebang 2-dong
+"1120069",신대방1동,Sindaebang 1-dong
+"1120068",대방동,Daebang-dong
+"1120067",사당5동,Sadang 5-dong
+"1120066",사당4동,Sadang 4-dong
+"1120065",사당3동,Sadang 3-dong
+"1120063",사당1동,Sadang 1-dong
+"1120056",상도4동,Sangdo 4-dong
+"1120055",상도3동,Sangdo 3-dong
+"1120054",상도2동,Sangdo 2-dong
+"1120053",상도1동,Sangdo 1-dong
+"1120052",노량진2동,Noryangjin 2-dong
+"1119076",문래동,Mullae-dong
+"1119075",도림동,Dorim-dong
+"1119074",영등포동,Yeongdeungpo-dong
+"1119073",영등포본동,Yeongdeungpo bon-dong
+"1119072",대림3동,Daerim 3-dong
+"1119071",대림2동,Daerim 2-dong
+"1119070",대림1동,Daerim 1-dong
+"1119069",신길7동,Singil 7-dong
+"1119068",신길6동,Singil 6-dong
+"1119067",신길5동,Singil 5-dong
+"1119066",신길4동,Singil 4-dong
+"1119065",신길3동,Singil 3-dong
+"1119063",신길1동,Singil 1-dong
+"1119062",양평2동,Yangpyeong 2-dong
+"1119061",양평1동,Yangpyeong 1-dong
+"1119056",당산2동,Dangsan  2-dong
+"1119055",당산1동,Dangsan 1-dong
+"1119054",여의동,Yeouido-dong
+"1118061",시흥5동,Siheung 5-dong
+"1118060",시흥4동,Siheung 4-dong
+"1118059",시흥3동,Siheung 3-dong
+"1118058",시흥2동,Siheung 2-dong
+"1118057",시흥1동,Siheung 1-dong
+"1118055",독산4동,Doksan 4-dong
+"1118054",독산3동,Doksan 3-dong
+"1118053",독산2동,Doksan 2-dong
+"1118052",독산1동,Doksan 1-dong
+"1118051",가산동,Gasan-dong
+"1117072",개봉1동,Gaebong 1-dong
+"1117071",구로2동,Guro 2-dong
+"1117070",가리봉동,Garibong-dong
+"1117069",수궁동,Sugung-dong
+"1117074",항동,Oryu 2-dong
+"1117067",오류1동,Oryu 1-dong
+"1117065",개봉3동,Gaebong 3-dong
+"1117064",개봉2동,Gaebong 2-dong
+"1117062",고척2동,Gocheok 2-dong
+"1117061",고척1동,Gocheok 1-dong
+"1117056",구로5동,Guro 5-dong
+"1117055",구로4동,Guro 4-dong
+"1117054",구로3동,Guro 3-dong
+"1117052",구로1동,Guro 1-dong
+"1117051",신도림동,Sindorim-dong
+"1116074",우장산동,Ujangsan-dong
+"1116073",화곡1동,Hwagok 1-dong
+"1116072",방화3동,Banghwa 3-dong
+"1116071",방화2동,Banghwa 2-dong
+"1116070",방화1동,Banghwa 1-dong
+"1116069",공항동,Gonghang-dong
+"1116067",발산1동,Balsan 1-dong
+"1116066",가양3동,Gayang 3-dong
+"1116065",가양2동,Gayang 2-dong
+"1116064",가양1동,Gayang 1-dong
+"1116063",화곡8동,Hwagok 8-dong
+"1116061",화곡6동,Hwagok 6-dong
+"1116059",화곡4동,Hwagok 4-dong
+"1116058",화곡3동,Hwagok 3-dong
+"1116057",화곡2동,Hwagok 2-dong
+"1116055",화곡본동,Hwagokbon-dong
+"1116054",등촌3동,Deungchon 3-dong
+"1116053",등촌2동,Deungchon 2-dong
+"1116052",등촌1동,Deungchon 1-dong
+"1116051",염창동,Yeomchang-dong
+"1115072",신정4동,Sinjeong 4-dong
+"1115071",목5동,Mok 5-dong
+"1115070",신정7동,Sinjeong 7-dong
+"1115069",신정6동,Sinjeong 6-dong
+"1115066",신정3동,Sinjeong 3-dong
+"1115065",신정2동,Sinjeong 2-dong
+"1115064",신정1동,Sinjeong 1-dong
+"1115063",신월7동,Sinwol 7-dong
+"1115062",신월6동,Sinwol 6-dong
+"1115061",신월5동,Sinwol 5-dong
+"1115060",신월4동,Sinwol 4-dong
+"1115059",신월3동,Sinwol 3-dong
+"1115058",신월2동,Sinwol 2-dong
+"1115057",신월1동,Sinwol 1-dong
+"1115054",목4동,Mok 4-dong
+"1115053",목3동,Mok 3-dong
+"1115052",목2동,Mok 2-dong
+"1115051",목1동,Mok 1-dong
+"1114078",아현동,Ahyeon-dong
+"1114077",공덕동,Gongdeok-dong
+"1114076",서강동,Seogang-dong
+"1114075",도화동,Dohwa-dong
+"1114074",상암동,Sangam-dong
+"1114073",성산2동,Seongsan 2-dong
+"1114072",성산1동,Seongsan 1-dong
+"1114071",연남동,Yeonnam-dong
+"1114070",망원2동,Mangwon 2-dong
+"1114069",망원1동,Mangwon 1-dong
+"1114068",합정동,Hapjeong-dong
+"1114066",서교동,Seogyo-dong
+"1114063",신수동,Sinsu-dong
+"1114061",염리동,Yeomni-dong
+"1114060",대흥동,Daeheung-dong
+"1114059",용강동,Yonggang-dong
+"1113076",연희동,Yeonhui-dong
+"1113075",신촌동,Sinchon-dong
+"1113074",북아현동,Bukahyeon-dong
+"1113073",충현동,Chunghyeon-dong
+"1113072",북가좌2동,Bukgajwa 2-dong
+"1113071",북가좌1동,Bukgajwa 1-dong
+"1113070",남가좌2동,Namgajwa 2-dong
+"1113069",남가좌1동,Namgajwa 1-dong
+"1113068",홍은2동,Hongeun 2-dong
+"1113066",홍은1동,Hongeun 1-dong
+"1113065",홍제2동,Hongje 2-dong
+"1113064",홍제3동,Hongje 3-dong
+"1113062",홍제1동,Hongje 1-dong
+"1113052",천연동,Cheonyeon-dong
+"1112074",역촌동,Yeokchon-dong
+"1112073",응암3동,Eungam 3-dong
+"1112072",불광2동,Bulgwang-dong
+"1112071",진관동,Jingwan-dong
+"1112068",수색동,Susaek-dong
+"1112067",증산동,Jeungsan-dong
+"1112066",신사2동,Sinsa 2-dong
+"1112065",신사1동,Sinsa 1-dong
+"1112060",응암2동,Eungam 2-dong
+"1112059",응암1동,Eungam 1-dong
+"1112058",대조동,Daejo-dong
+"1112057",구산동,Gusan-dong
+"1112056",갈현2동,Galhyeon 2-dong
+"1112055",갈현1동,Galhyeon 1-dong
+"1112052",불광1동,Bulgwang 1-dong
+"1112051",녹번동,Nokbeon-dong
+"1111078",중계2·3동,"Junggye 2,3-dong"
+"1111077",상계6·7동,Sanggye 6.7-dong
+"1111076",상계3·4동,Sanggye 3.4-dong
+"1111079",공릉1동,Gongneung 1dong
+"1111074",상계10동,Sanggye 10-dong
+"1111073",상계9동,Sanggye 9-dong
+"1111072",상계8동,Sanggye 8-dong
+"1111069",상계5동,Sanggye 5-dong
+"1111066",상계2동,Sanggye 2-dong
+"1111065",상계1동,Sanggye 1-dong
+"1111064",중계4동,Junggye 4-dong
+"1111061",중계1동,Junggye 1-dong
+"1111060",중계본동,Junggyebon-dong
+"1111059",하계2동,Hagye 2-dong
+"1111058",하계1동,Hagye 1-dong
+"1111056",공릉2동,Gongneung 2-dong
+"1111053",월계3동,Wolgye 3-dong
+"1111052",월계2동,Wolgye 2-dong
+"1111051",월계1동,Wolgye 1-dong
+"1110065",도봉2동,Dobong 2-dong
+"1110064",도봉1동,Dobong 1-dong
+"1110063",창5동,Chang 5-dong
+"1110062",창4동,Chang 4-dong
+"1110061",창3동,Chang 3-dong
+"1110060",창2동,Chang 2-dong
+"1110059",창1동,Chang 1-dong
+"1110057",방학3동,Banghak 3-dong
+"1110056",방학2동,Banghak 2-dong
+"1110055",방학1동,Banghak 1-dong
+"1110054",쌍문4동,Ssangmun 4-dong
+"1110053",쌍문3동,Ssangmun 3-dong
+"1110052",쌍문2동,Ssangmun 2-dong
+"1110051",쌍문1동,Ssangmun 1-dong
+"1109075",인수동,Insu-dong
+"1109074",우이동,Ui-dong
+"1109073",삼각산동,Samgaksan-dong
+"1109072",송천동,Songcheon-dong
+"1109071",송중동,Songjung-dong
+"1109070",미아동,Mia-dong
+"1109069",삼양동,Samyang-dong
+"1109065",수유3동,Suyu 3-dong
+"1109064",수유2동,Suyu 2-dong
+"1109063",수유1동,Suyu 1-dong
+"1109062",번3동,Beon 3-dong
+"1109061",번2동,Beon 2-dong
+"1109060",번1동,Beon 1-dong
+"1108085",석관동,Seokgwan-dong
+"1108084",종암동,Jongam-dong
+"1108083",동선동,Dongseon-dong
+"1108082",삼선동,Samseon-dong
+"1108081",성북동,Seongbuk-dong
+"1108078",장위3동,Jangwi 3-dong
+"1108077",장위2동,Jangwi 2-dong
+"1108076",장위1동,Jangwi 1-dong
+"1108072",월곡2동,Wolgok 2-dong
+"1108071",월곡1동,Wolgok 1-dong
+"1108068",길음2동,Gireum 2-dong
+"1108066",길음1동,Gireum 1-dong
+"1108065",정릉4동,Jeongneung 4-dong
+"1108064",정릉3동,Jeongneung 3-dong
+"1108063",정릉2동,Jeongneung 2-dong
+"1108062",정릉1동,Jeongneung 1-dong
+"1108061",보문동,Bomun-dong
+"1108060",안암동,Anam-dong
+"1108059",돈암2동,Donam 2-dong
+"1108058",돈암1동,Donam 1-dong
+"1107073",망우본동,Mangubon-dong
+"1107072",면목3·8동,Myeonmok 3.8-dong
+"1107071",면목본동,Myeonmokbon-dong
+"1107070",신내2동,Sinnae 2-dong
+"1107069",신내1동,Sinnae 1-dong
+"1107068",망우3동,Mangu 3-dong
+"1107065",묵2동,Muk 2-dong
+"1107064",묵1동,Muk 1-dong
+"1107062",중화2동,Junghwa 2-dong
+"1107061",중화1동,Junghwa 1-dong
+"1107060",상봉2동,Sangbong 2-dong
+"1107059",상봉1동,Sangbong 1-dong
+"1107057",면목7동,Myeonmok 7-dong
+"1107055",면목5동,Myeonmok 5-dong
+"1107054",면목4동,Myeonmok 4-dong
+"1107052",면목2동,Myeonmok 2-dong
+"1106090",이문2동,Imun 2-dong
+"1106089",이문1동,Imun 1-dong
+"1106088",장안2동,Jangan 2-dong
+"1106087",장안1동,Jangan 1-dong
+"1106086",답십리2동,Dapsimri 2-dong
+"1106091",답십리1동,Dapsimri 1-dong
+"1106084",전농2동,Jeollo 2-dong
+"1106083",전농1동,Jeollo 1-dong
+"1106082",제기동,Jegi-dong
+"1106081",용신동,Yongsin-dong
+"1106080",청량리동,Cheongryangri-dong
+"1106073",휘경2동,Hwigyeong 2-dong
+"1106072",휘경1동,Hwigyeong 1-dong
+"1106071",회기동,Hoegi-dong
+"1105067",자양4동,Jayang 4-dong
+"1105066",자양3동,Jayang 3-dong
+"1105065",자양2동,Jayang 2-dong
+"1105064",자양1동,Jayang 1-dong
+"1105063",광장동,Gwangjang-dong
+"1105062",구의3동,Guui 3-dong
+"1105061",구의2동,Guui 2-dong
+"1105060",구의1동,Guui 1-dong
+"1105059",능동,Neung-dong
+"1105058",중곡4동,Junggok 4-dong
+"1105057",중곡3동,Junggok 3-dong
+"1105056",중곡2동,Junggok 2-dong
+"1105055",중곡1동,Junggok 1-dong
+"1105054",군자동,Gunja-dong
+"1105053",화양동,Hwayang-dong
+"1104073",옥수동,Oksu-dong
+"1104072",금호2·3가동,"Geumho 2,3ga-dong"
+"1104071",왕십리도선동,Wangsimridoseon-dong
+"1104070",용답동,Yongdap-dong
+"1104069",송정동,Songjeong-dong
+"1104068",성수2가3동,Seongsu 2-ga 3-dong
+"1104067",성수2가1동,Seongsu 2-ga1-dong
+"1104066",성수1가2동,Seongsu 1-ga2-dong
+"1104065",성수1가1동,Seongsu 1-ga1-dong
+"1104062",금호4가동,Geumho 4-ga-dong
+"1104059",금호1가동,Geumho 1-ga-dong
+"1104058",응봉동,Eungbong-dong
+"1104057",행당2동,Haengdang 2-dong
+"1104056",행당1동,Haengdang 1-dong
+"1104055",사근동,Sageun-dong
+"1104054",마장동,Majang-dong
+"1104052",왕십리2동,Wangsimni 2-dong
+"1103074",한남동,Hannam-dong
+"1103073",한강로동,Hangangro-dong
+"1103072",원효로1동,Wonhyoro 1-dong
+"1103071",청파동,Cheongpa-dong
+"1103070",보광동,Bogwang-dong
+"1103069",서빙고동,Seobinggo-dong
+"1103066",이태원2동,Itaewon 2-dong
+"1103065",이태원1동,Itaewon 1-dong
+"1103064",이촌2동,Ichon 2-dong
+"1103063",이촌1동,Ichon 1-dong
+"1103059",용문동,Yongmun-dong
+"1103058",효창동,Hyochang-dong
+"1103057",원효로2동,Wonhyoro 2-dong
+"1103053",남영동,Namyeong-dong
+"1103052",용산2가동,Yongsan 2-ga-dong
+"1103051",후암동,Huam-dong
+"1102068",중림동,Jungnim-dong
+"1102067",황학동,Hwanghak-dong
+"1102073",동화동,donghwa dong
+"1102065",신당5동,Sindang 5-dong
+"1102072",청구동,chunggu dong
+"1102071",약수동,yaksu dong
+"1102070",다산동,dasan dong
+"1102069",신당동,Sindang dong
+"1102060",을지로동,Euljiro-dong
+"1102059",광희동,Gwanghui-dong
+"1102058",장충동,Jangchung-dong
+"1102057",필동,Pil-dong
+"1102055",명동,Myeong-dong
+"1102054",회현동,Hoehyeon-dong
+"1102052",소공동,Sogong-dong
+"1101072",청운효자동,Cheongunhyoja-dong
+"1101071",숭인2동,Sungin 2-dong
+"1101070",숭인1동,Sungin 1-dong
+"1101069",창신3동,Changsin 3-dong
+"1101068",창신2동,Changsin 2-dong
+"1101067",창신1동,Changsin 1-dong
+"1101073",혜화동,Hyehwa-dong
+"1101064",이화동,Ihwa-dong
+"1101063",종로5·6가동,Jongno 5·6-ga-dong
+"1101061",종로1·2·3·4가동,Jongno 1·2·3·4-ga-dong
+"1101058",교남동,Gyonam-dong
+"1101057",무악동,Muak-dong
+"1101056",평창동,Pyeongchang-dong
+"1101055",부암동,Buam-dong
+"1101054",삼청동,Samcheong-dong
+"1101053",사직동,Sajik-dong
+"1117073",오류2동,Oryu 2-dong
+"1101060",가회동,Gahoe-dong
+"1124081",장지동,Jangji-dong
+"1124054",거여2동,Geoyeo 2-dong
+"1124055",마천1동,Macheon 1-dong
